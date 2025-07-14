@@ -1,0 +1,255 @@
+2025-07-07 08:59:06,784 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 09:18:54,748 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 09:22:34,312 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 09:23:12,627 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.07006056637747582, best pos: [9.05793424]
+2025-07-07 09:23:12,633 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 09:24:07,049 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.16844000654771651, best pos: [176.07752211  22.26289488   3.79326997]
+2025-07-07 09:30:53,106 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 09:31:32,681 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.07006056637747582, best pos: [8.88390358]
+2025-07-07 09:31:32,703 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 09:32:00,530 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.1280078572597807, best pos: [14.70763133 29.70735221  6.18632522]
+2025-07-07 10:03:24,496 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 10:04:04,667 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.07087903093796044, best pos: [7.26454423]
+2025-07-07 10:04:04,671 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 10:04:39,480 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.12751677852348997, best pos: [46.68448354 29.51340845  2.44734485]
+2025-07-07 10:06:34,161 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 10:07:13,864 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.07022425928957277, best pos: [9.14931957]
+2025-07-07 10:07:13,868 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 10:07:45,688 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.18055328204288756, best pos: [164.10684459  15.0866184    5.24315271]
+2025-07-07 10:14:14,422 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 10:14:50,902 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.07087903093796044, best pos: [7.27164787]
+2025-07-07 10:14:50,905 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 10:15:33,771 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.12129644786380744, best pos: [74.01875462 29.40116613  5.99788499]
+2025-07-07 10:18:13,179 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 10:18:48,199 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.07251596005892946, best pos: [4.65908955]
+2025-07-07 10:18:48,205 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 10:19:39,390 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.12948109346865277, best pos: [112.17223979  28.05628131   7.7212071 ]
+2025-07-07 10:21:47,343 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 10:22:27,367 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.07022425928957277, best pos: [9.18486427]
+2025-07-07 10:22:27,369 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 10:23:00,121 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.12620723522671473, best pos: [47.68237136 28.22607979  9.51461708]
+2025-07-07 10:46:09,073 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 10:46:46,519 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.07006056637747582, best pos: [9.04139815]
+2025-07-07 10:46:46,523 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 10:47:23,477 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.12604354231461778, best pos: [82.34411023 28.27773857  6.71767547]
+2025-07-07 10:53:33,949 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 10:54:11,998 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.07022425928957277, best pos: [9.19208815]
+2025-07-07 10:54:12,002 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 10:54:58,432 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.13193648715010642, best pos: [188.35025818  28.2381464    6.34416746]
+2025-07-07 10:56:50,991 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 10:57:30,260 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.07006056637747582, best pos: [9.04951236]
+2025-07-07 10:57:30,263 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 10:58:33,728 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.13439188083155995, best pos: [127.78851244  26.07369116   5.15766366]
+2025-07-07 11:00:19,901 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 11:00:57,541 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.07006056637747582, best pos: [8.84192299]
+2025-07-07 11:00:57,552 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 11:01:36,392 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.11851366835816013, best pos: [29.34857969 29.81189409  4.45570512]
+2025-07-07 11:05:12,271 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 11:05:49,994 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.0707153380258635, best pos: [8.20541434]
+2025-07-07 11:05:49,998 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 11:07:02,660 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.1288263218202652, best pos: [187.33039968  29.81748753   7.85872151]
+2025-07-07 11:14:29,535 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 11:15:05,165 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.07104272385005728, best pos: [5.44330843]
+2025-07-07 11:15:05,168 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 11:16:09,112 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.16549353412997214, best pos: [173.42770597  23.04649125   4.23043583]
+2025-07-07 11:18:33,486 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 11:19:12,167 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.07038795220166971, best pos: [9.779596]
+2025-07-07 11:19:12,169 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 11:20:18,096 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.13046325094123423, best pos: [109.88701765  27.71750469   6.88067586]
+2025-07-07 11:26:00,300 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 11:26:37,612 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.07006056637747582, best pos: [9.0366481]
+2025-07-07 11:26:37,615 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 11:27:28,283 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.12849893599607132, best pos: [103.08885167  27.63327281   6.88034964]
+2025-07-07 13:41:38,652 - mealpy.swarm_based.ABC.OriginalABC - INFO - OriginalABC(epoch=3, pop_size=5, n_limits=25)
+2025-07-07 13:42:15,027 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 1, Current best: 0.07269155206286837, Global best: 0.07269155206286837, Runtime: 24.03017 seconds
+2025-07-07 13:42:39,251 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 2, Current best: 0.07269155206286837, Global best: 0.07269155206286837, Runtime: 24.22078 seconds
+2025-07-07 13:43:03,773 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 3, Current best: 0.07269155206286837, Global best: 0.07269155206286837, Runtime: 24.52148 seconds
+2025-07-07 13:43:03,775 - mealpy.swarm_based.ABC.OriginalABC - INFO - OriginalABC(epoch=3, pop_size=5, n_limits=25)
+2025-07-07 13:50:51,428 - mealpy.swarm_based.ABC.OriginalABC - INFO - OriginalABC(epoch=3, pop_size=5, n_limits=25)
+2025-07-07 13:51:27,610 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 1, Current best: 0.07269155206286837, Global best: 0.07269155206286837, Runtime: 24.22181 seconds
+2025-07-07 13:51:52,351 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 2, Current best: 0.07252783235101501, Global best: 0.07252783235101501, Runtime: 24.74002 seconds
+2025-07-07 13:52:17,320 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 3, Current best: 0.07252783235101501, Global best: 0.07252783235101501, Runtime: 24.96837 seconds
+2025-07-07 13:52:17,322 - mealpy.swarm_based.ABC.OriginalABC - INFO - OriginalABC(epoch=5, pop_size=10, n_limits=25)
+2025-07-07 13:53:09,043 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 1, Current best: 0.05026195153896529, Global best: 0.05026195153896529, Runtime: 38.30716 seconds
+2025-07-07 13:53:43,982 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 2, Current best: 0.05026195153896529, Global best: 0.05026195153896529, Runtime: 34.93704 seconds
+2025-07-07 13:54:31,438 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 3, Current best: 0.05009823182711204, Global best: 0.05009823182711204, Runtime: 47.45244 seconds
+2025-07-07 13:55:14,610 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 4, Current best: 0.05009823182711204, Global best: 0.05009823182711204, Runtime: 43.17076 seconds
+2025-07-07 13:55:53,113 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 5, Current best: 0.05009823182711204, Global best: 0.05009823182711204, Runtime: 38.50160 seconds
+2025-07-07 14:05:21,394 - mealpy.swarm_based.ABC.OriginalABC - INFO - OriginalABC(epoch=3, pop_size=5, n_limits=25)
+2025-07-07 14:05:55,897 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 1, Current best: 0.07269155206286837, Global best: 0.07269155206286837, Runtime: 23.52442 seconds
+2025-07-07 14:06:20,133 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 2, Current best: 0.07269155206286837, Global best: 0.07269155206286837, Runtime: 24.23437 seconds
+2025-07-07 14:06:44,160 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 3, Current best: 0.07269155206286837, Global best: 0.07269155206286837, Runtime: 24.02586 seconds
+2025-07-07 14:06:44,162 - mealpy.swarm_based.ABC.OriginalABC - INFO - OriginalABC(epoch=5, pop_size=10, n_limits=25)
+2025-07-07 14:07:41,622 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 1, Current best: 0.07351015062213495, Global best: 0.07351015062213495, Runtime: 39.93590 seconds
+2025-07-07 14:08:26,452 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 2, Current best: 0.07023575638506874, Global best: 0.07023575638506874, Runtime: 44.82814 seconds
+2025-07-07 14:09:05,052 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 3, Current best: 0.06941715782580227, Global best: 0.06941715782580227, Runtime: 38.59745 seconds
+2025-07-07 14:09:42,548 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 4, Current best: 0.06941715782580227, Global best: 0.06941715782580227, Runtime: 37.49420 seconds
+2025-07-07 14:10:14,452 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 5, Current best: 0.06941715782580227, Global best: 0.06941715782580227, Runtime: 31.90216 seconds
+2025-07-07 15:14:44,054 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 15:15:10,775 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.07055164511376655, best pos: [8.60724218]
+2025-07-07 15:15:10,784 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 15:15:53,520 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.143067605172696, best pos: [98.4221241  28.86975347  8.82455739]
+2025-07-07 15:16:12,372 - mealpy.swarm_based.ABC.OriginalABC - INFO - OriginalABC(epoch=3, pop_size=5, n_limits=25)
+2025-07-07 15:16:44,309 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 1, Current best: 0.07301899148657498, Global best: 0.07301899148657498, Runtime: 21.74493 seconds
+2025-07-07 15:17:08,054 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 2, Current best: 0.07285527177472173, Global best: 0.07285527177472173, Runtime: 23.74470 seconds
+2025-07-07 15:17:31,092 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 3, Current best: 0.07285527177472173, Global best: 0.07285527177472173, Runtime: 23.03609 seconds
+2025-07-07 15:17:31,094 - mealpy.swarm_based.ABC.OriginalABC - INFO - OriginalABC(epoch=5, pop_size=10, n_limits=25)
+2025-07-07 15:18:00,300 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 1, Current best: 0.05189914865749834, Global best: 0.05189914865749834, Runtime: 19.71451 seconds
+2025-07-07 15:18:26,065 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 2, Current best: 0.05173542894564509, Global best: 0.05173542894564509, Runtime: 25.76390 seconds
+2025-07-07 15:19:14,875 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 3, Current best: 0.05009823182711204, Global best: 0.05009823182711204, Runtime: 48.80768 seconds
+2025-07-07 15:20:04,025 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 4, Current best: 0.05009823182711204, Global best: 0.05009823182711204, Runtime: 49.14779 seconds
+2025-07-07 15:21:01,244 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 5, Current best: 0.04960707269155207, Global best: 0.04960707269155207, Runtime: 57.21712 seconds
+2025-07-07 15:29:35,882 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 15:30:02,225 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.07055164511376655, best pos: [8.67967799]
+2025-07-07 15:30:02,232 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 15:30:37,137 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.14175806187592077, best pos: [152.21178312  29.7989924    5.04268578]
+2025-07-07 15:30:49,068 - mealpy.swarm_based.ABC.OriginalABC - INFO - OriginalABC(epoch=3, pop_size=5, n_limits=25)
+2025-07-07 15:31:24,703 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 1, Current best: 0.07252783235101501, Global best: 0.07252783235101501, Runtime: 23.97637 seconds
+2025-07-07 15:31:48,987 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 2, Current best: 0.07252783235101501, Global best: 0.07252783235101501, Runtime: 24.28223 seconds
+2025-07-07 15:32:13,355 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 3, Current best: 0.07252783235101501, Global best: 0.07252783235101501, Runtime: 24.36705 seconds
+2025-07-07 15:32:13,356 - mealpy.swarm_based.ABC.OriginalABC - INFO - OriginalABC(epoch=5, pop_size=10, n_limits=25)
+2025-07-07 15:33:37,106 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 1, Current best: 0.05091683038637851, Global best: 0.05091683038637851, Runtime: 57.99871 seconds
+2025-07-07 15:34:31,027 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 2, Current best: 0.04993451211525868, Global best: 0.04993451211525868, Runtime: 53.91995 seconds
+2025-07-07 15:35:56,127 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 3, Current best: 0.04993451211525868, Global best: 0.04993451211525868, Runtime: 85.09818 seconds
+2025-07-07 15:37:23,687 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 4, Current best: 0.04993451211525868, Global best: 0.04993451211525868, Runtime: 87.55899 seconds
+2025-07-07 15:38:37,973 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 5, Current best: 0.04993451211525868, Global best: 0.04993451211525868, Runtime: 74.28559 seconds
+2025-07-07 15:39:21,110 - mealpy.swarm_based.GWO.OriginalGWO - INFO - OriginalGWO(epoch=3, pop_size=5)
+2025-07-07 15:39:46,445 - mealpy.swarm_based.GWO.OriginalGWO - INFO - >>>Problem: P, Epoch: 1, Current best: 0.07269155206286837, Global best: 0.07269155206286837, Runtime: 12.91892 seconds
+2025-07-07 15:39:59,118 - mealpy.swarm_based.GWO.OriginalGWO - INFO - >>>Problem: P, Epoch: 2, Current best: 0.07252783235101501, Global best: 0.07252783235101501, Runtime: 12.66416 seconds
+2025-07-07 15:40:11,849 - mealpy.swarm_based.GWO.OriginalGWO - INFO - >>>Problem: P, Epoch: 3, Current best: 0.07252783235101501, Global best: 0.07252783235101501, Runtime: 12.74399 seconds
+2025-07-07 15:40:11,865 - mealpy.swarm_based.GWO.OriginalGWO - INFO - OriginalGWO(epoch=5, pop_size=10)
+2025-07-07 15:40:45,183 - mealpy.swarm_based.GWO.OriginalGWO - INFO - >>>Problem: P, Epoch: 1, Current best: 0.0505893909626719, Global best: 0.0505893909626719, Runtime: 17.92147 seconds
+2025-07-07 15:41:06,579 - mealpy.swarm_based.GWO.OriginalGWO - INFO - >>>Problem: P, Epoch: 2, Current best: 0.0505893909626719, Global best: 0.0505893909626719, Runtime: 21.38562 seconds
+2025-07-07 15:41:36,932 - mealpy.swarm_based.GWO.OriginalGWO - INFO - >>>Problem: P, Epoch: 3, Current best: 0.0505893909626719, Global best: 0.0505893909626719, Runtime: 30.35233 seconds
+2025-07-07 15:42:12,867 - mealpy.swarm_based.GWO.OriginalGWO - INFO - >>>Problem: P, Epoch: 4, Current best: 0.0505893909626719, Global best: 0.0505893909626719, Runtime: 35.93231 seconds
+2025-07-07 15:42:47,756 - mealpy.swarm_based.GWO.OriginalGWO - INFO - >>>Problem: P, Epoch: 5, Current best: 0.0505893909626719, Global best: 0.0505893909626719, Runtime: 34.88749 seconds
+2025-07-07 16:00:44,231 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 16:01:10,322 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.07055164511376655, best pos: [8.80062791]
+2025-07-07 16:01:10,324 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-07 16:01:41,884 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.1514159436896383, best pos: [59.02738069 19.49647161  2.73305285]
+2025-07-07 16:01:49,363 - mealpy.swarm_based.ABC.OriginalABC - INFO - OriginalABC(epoch=3, pop_size=5, n_limits=25)
+2025-07-07 16:02:22,030 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 1, Current best: 0.07269155206286837, Global best: 0.07269155206286837, Runtime: 21.98819 seconds
+2025-07-07 16:02:46,023 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 2, Current best: 0.07269155206286837, Global best: 0.07269155206286837, Runtime: 23.99284 seconds
+2025-07-07 16:03:10,263 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 3, Current best: 0.07269155206286837, Global best: 0.07269155206286837, Runtime: 24.23935 seconds
+2025-07-07 16:03:10,266 - mealpy.swarm_based.ABC.OriginalABC - INFO - OriginalABC(epoch=5, pop_size=10, n_limits=25)
+2025-07-07 16:04:00,423 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 1, Current best: 0.05108055009823187, Global best: 0.05108055009823187, Runtime: 30.93275 seconds
+2025-07-07 16:05:02,551 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 2, Current best: 0.05075311067452526, Global best: 0.05075311067452526, Runtime: 62.12963 seconds
+2025-07-07 16:05:50,431 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 3, Current best: 0.05075311067452526, Global best: 0.05075311067452526, Runtime: 47.87071 seconds
+2025-07-07 16:06:59,154 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 4, Current best: 0.0505893909626719, Global best: 0.0505893909626719, Runtime: 68.72814 seconds
+2025-07-07 16:08:13,636 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 5, Current best: 0.05026195153896529, Global best: 0.05026195153896529, Runtime: 74.48322 seconds
+2025-07-07 16:08:43,431 - mealpy.swarm_based.GWO.OriginalGWO - INFO - OriginalGWO(epoch=3, pop_size=5)
+2025-07-07 16:09:09,295 - mealpy.swarm_based.GWO.OriginalGWO - INFO - >>>Problem: P, Epoch: 1, Current best: 0.07285527177472173, Global best: 0.07285527177472173, Runtime: 13.78207 seconds
+2025-07-07 16:09:22,093 - mealpy.swarm_based.GWO.OriginalGWO - INFO - >>>Problem: P, Epoch: 2, Current best: 0.07285527177472173, Global best: 0.07285527177472173, Runtime: 12.80494 seconds
+2025-07-07 16:09:34,937 - mealpy.swarm_based.GWO.OriginalGWO - INFO - >>>Problem: P, Epoch: 3, Current best: 0.07285527177472173, Global best: 0.07285527177472173, Runtime: 12.83607 seconds
+2025-07-07 16:09:34,947 - mealpy.swarm_based.GWO.OriginalGWO - INFO - OriginalGWO(epoch=5, pop_size=10)
+2025-07-07 16:10:09,152 - mealpy.swarm_based.GWO.OriginalGWO - INFO - >>>Problem: P, Epoch: 1, Current best: 0.05189914865749834, Global best: 0.05189914865749834, Runtime: 19.95560 seconds
+2025-07-07 16:10:48,783 - mealpy.swarm_based.GWO.OriginalGWO - INFO - >>>Problem: P, Epoch: 2, Current best: 0.05140798952193848, Global best: 0.05140798952193848, Runtime: 39.62798 seconds
+2025-07-07 16:11:23,217 - mealpy.swarm_based.GWO.OriginalGWO - INFO - >>>Problem: P, Epoch: 3, Current best: 0.05042567125081865, Global best: 0.05042567125081865, Runtime: 34.44001 seconds
+2025-07-07 16:12:05,053 - mealpy.swarm_based.GWO.OriginalGWO - INFO - >>>Problem: P, Epoch: 4, Current best: 0.05042567125081865, Global best: 0.05042567125081865, Runtime: 41.83255 seconds
+2025-07-07 16:12:43,786 - mealpy.swarm_based.GWO.OriginalGWO - INFO - >>>Problem: P, Epoch: 5, Current best: 0.05042567125081865, Global best: 0.05042567125081865, Runtime: 38.72262 seconds
+2025-07-07 16:33:01,132 - mealpy.swarm_based.FA.OriginalFA - INFO - OriginalFA(epoch=5, pop_size=5, max_sparks=100, p_a=0.04, p_b=0.8, max_ea=40, m_sparks=100)
+2025-07-07 16:43:49,071 - mealpy.swarm_based.FA.OriginalFA - INFO - >>>Problem: P, Epoch: 1, Current best: 0.907081819074747, Global best: 0.907081819074747, Runtime: 631.29588 seconds
+2025-07-07 16:49:17,690 - mealpy.swarm_based.FA.OriginalFA - INFO - >>>Problem: P, Epoch: 2, Current best: 0.8073863078283077, Global best: 0.8073863078283077, Runtime: 328.62047 seconds
+2025-07-07 16:57:20,285 - mealpy.swarm_based.FA.OriginalFA - INFO - >>>Problem: P, Epoch: 3, Current best: 0.8073863078283077, Global best: 0.8073863078283077, Runtime: 482.59003 seconds
+2025-07-07 17:02:01,567 - mealpy.swarm_based.FA.OriginalFA - INFO - >>>Problem: P, Epoch: 4, Current best: 0.8000196444357136, Global best: 0.8000196444357136, Runtime: 281.28872 seconds
+2025-07-07 17:09:28,539 - mealpy.swarm_based.FA.OriginalFA - INFO - >>>Problem: P, Epoch: 5, Current best: 0.8000196444357136, Global best: 0.8000196444357136, Runtime: 446.97472 seconds
+2025-07-13 18:03:16,827 - pyswarms.single.global_best - INFO - Optimize for 50 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-13 19:15:11,703 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.0805908171837092, best pos: [9.45567495]
+2025-07-13 19:15:15,614 - pyswarms.single.global_best - INFO - Optimize for 50 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-13 20:34:13,185 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.17479210567330794, best pos: [145.41776387  29.77424031   4.02230136]
+2025-07-13 20:47:45,922 - mealpy.swarm_based.ABC.OriginalABC - INFO - OriginalABC(epoch=50, pop_size=20, n_limits=25)
+2025-07-13 20:52:37,397 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 1, Current best: 0.0804293611649407, Global best: 0.0804293611649407, Runtime: 187.51884 seconds
+2025-07-13 20:55:58,230 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 2, Current best: 0.0804293611649407, Global best: 0.0804293611649407, Runtime: 200.83208 seconds
+2025-07-13 20:59:24,130 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 3, Current best: 0.0804293611649407, Global best: 0.0804293611649407, Runtime: 205.89688 seconds
+2025-07-13 21:02:48,718 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 4, Current best: 0.08039889778307041, Global best: 0.08039889778307041, Runtime: 204.58421 seconds
+2025-07-13 21:06:16,389 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 5, Current best: 0.08039889778307041, Global best: 0.08039889778307041, Runtime: 207.67714 seconds
+2025-07-13 21:09:43,536 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 6, Current best: 0.08039889778307041, Global best: 0.08039889778307041, Runtime: 207.14003 seconds
+2025-07-13 21:13:14,798 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 7, Current best: 0.08039425529049316, Global best: 0.08039425529049316, Runtime: 211.25891 seconds
+2025-07-13 21:16:43,897 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 8, Current best: 0.08039425529049316, Global best: 0.08039425529049316, Runtime: 209.09847 seconds
+2025-07-13 21:20:13,974 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 9, Current best: 0.08036379379091796, Global best: 0.08036379379091796, Runtime: 210.07467 seconds
+2025-07-13 21:24:00,261 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 10, Current best: 0.08036379379091796, Global best: 0.08036379379091796, Runtime: 226.28576 seconds
+2025-07-13 21:27:53,342 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 11, Current best: 0.08036379379091796, Global best: 0.08036379379091796, Runtime: 233.07959 seconds
+2025-07-13 21:31:25,587 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 12, Current best: 0.08036379379091796, Global best: 0.08036379379091796, Runtime: 212.24292 seconds
+2025-07-13 21:35:03,374 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 13, Current best: 0.08036379379091796, Global best: 0.08036379379091796, Runtime: 217.80059 seconds
+2025-07-13 21:38:38,856 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 14, Current best: 0.08036379379091796, Global best: 0.08036379379091796, Runtime: 215.46781 seconds
+2025-07-13 21:42:08,746 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 15, Current best: 0.08036379379091796, Global best: 0.08036379379091796, Runtime: 209.90075 seconds
+2025-07-13 21:45:50,493 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 16, Current best: 0.08036379379091796, Global best: 0.08036379379091796, Runtime: 221.73123 seconds
+2025-07-13 21:49:20,379 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 17, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 209.88458 seconds
+2025-07-13 21:53:01,281 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 18, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 220.90129 seconds
+2025-07-13 21:56:29,637 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 19, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 208.35395 seconds
+2025-07-13 22:00:14,776 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 20, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 225.14347 seconds
+2025-07-13 22:03:56,430 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 21, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 221.64785 seconds
+2025-07-13 22:07:35,431 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 22, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 219.01382 seconds
+2025-07-13 22:11:06,734 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 23, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 211.28943 seconds
+2025-07-13 22:14:34,875 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 24, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 208.13888 seconds
+2025-07-13 22:18:00,290 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 25, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 205.41485 seconds
+2025-07-13 22:21:39,387 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 26, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 219.10565 seconds
+2025-07-13 22:25:14,075 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 27, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 214.67733 seconds
+2025-07-13 22:28:39,858 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 28, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 205.77818 seconds
+2025-07-13 22:32:16,266 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 29, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 216.42085 seconds
+2025-07-13 22:35:48,149 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 30, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 211.86975 seconds
+2025-07-13 22:39:20,122 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 31, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 211.97174 seconds
+2025-07-13 22:42:51,885 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 32, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 211.76608 seconds
+2025-07-13 22:46:21,116 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 33, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 209.22429 seconds
+2025-07-13 22:49:55,366 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 34, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 214.24834 seconds
+2025-07-13 22:53:24,235 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 35, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 208.87024 seconds
+2025-07-13 22:56:41,414 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 36, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 197.19086 seconds
+2025-07-13 23:00:07,728 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 37, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 206.30331 seconds
+2025-07-13 23:03:31,680 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 38, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 203.94493 seconds
+2025-07-13 23:07:02,619 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 39, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 210.93698 seconds
+2025-07-13 23:10:29,586 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 40, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 206.96614 seconds
+2025-07-13 23:14:02,894 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 41, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 213.30951 seconds
+2025-07-13 23:17:31,194 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 42, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 208.29908 seconds
+2025-07-13 23:21:07,138 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 43, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 215.93997 seconds
+2025-07-13 23:24:31,575 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 44, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 204.43703 seconds
+2025-07-13 23:27:57,942 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 45, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 206.37670 seconds
+2025-07-13 23:31:25,376 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 46, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 207.42235 seconds
+2025-07-13 23:34:51,161 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 47, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 205.78206 seconds
+2025-07-13 23:38:17,865 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 48, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 206.70210 seconds
+2025-07-13 23:41:51,992 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 49, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 214.13724 seconds
+2025-07-13 23:45:28,609 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 50, Current best: 0.08035937334433119, Global best: 0.08035937334433119, Runtime: 216.60737 seconds
+2025-07-13 23:46:54,495 - mealpy.swarm_based.ABC.OriginalABC - INFO - OriginalABC(epoch=50, pop_size=20, n_limits=25)
+2025-07-13 23:54:58,996 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 1, Current best: 0.05802724423998906, Global best: 0.05802724423998906, Runtime: 337.34456 seconds
+2025-07-14 00:03:29,776 - mealpy.swarm_based.ABC.OriginalABC - INFO - OriginalABC(epoch=50, pop_size=20, n_limits=25)
+2025-07-14 00:11:36,142 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 1, Current best: 0.057440442789634893, Global best: 0.057440442789634893, Runtime: 355.77232 seconds
+2025-07-14 00:17:27,088 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 2, Current best: 0.057218895905895906, Global best: 0.057218895905895906, Runtime: 350.94453 seconds
+2025-07-14 00:24:47,693 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 3, Current best: 0.057218895905895906, Global best: 0.057218895905895906, Runtime: 440.60344 seconds
+2025-07-14 00:33:11,391 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 4, Current best: 0.057187638538573005, Global best: 0.057187638538573005, Runtime: 503.69741 seconds
+2025-07-14 00:41:00,519 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 5, Current best: 0.057187638538573005, Global best: 0.057187638538573005, Runtime: 469.12917 seconds
+2025-07-14 00:48:28,636 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 6, Current best: 0.057187638538573005, Global best: 0.057187638538573005, Runtime: 448.12019 seconds
+2025-07-14 00:58:16,352 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 7, Current best: 0.05715319512474881, Global best: 0.05715319512474881, Runtime: 587.69651 seconds
+2025-07-14 01:06:30,889 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 8, Current best: 0.05715319512474881, Global best: 0.05715319512474881, Runtime: 494.39495 seconds
+2025-07-14 01:15:38,195 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 9, Current best: 0.056983496853633575, Global best: 0.056983496853633575, Runtime: 547.31106 seconds
+2025-07-14 01:24:55,696 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 10, Current best: 0.05679604282203776, Global best: 0.05679604282203776, Runtime: 557.49342 seconds
+2025-07-14 01:35:44,286 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 11, Current best: 0.05679604282203776, Global best: 0.05679604282203776, Runtime: 648.58438 seconds
+2025-07-14 01:46:34,221 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 12, Current best: 0.056707686075109565, Global best: 0.056707686075109565, Runtime: 649.93209 seconds
+2025-07-14 01:58:36,967 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 13, Current best: 0.056707686075109565, Global best: 0.056707686075109565, Runtime: 722.73395 seconds
+2025-07-14 02:10:44,034 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 14, Current best: 0.056707686075109565, Global best: 0.056707686075109565, Runtime: 727.06590 seconds
+2025-07-14 02:21:53,405 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 15, Current best: 0.056707686075109565, Global best: 0.056707686075109565, Runtime: 669.36918 seconds
+2025-07-14 02:32:42,108 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 16, Current best: 0.056707686075109565, Global best: 0.056707686075109565, Runtime: 648.70193 seconds
+2025-07-14 02:44:40,488 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 17, Current best: 0.056707686075109565, Global best: 0.056707686075109565, Runtime: 718.37945 seconds
+2025-07-14 02:57:42,392 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 18, Current best: 0.056707686075109565, Global best: 0.056707686075109565, Runtime: 781.90243 seconds
+2025-07-14 03:11:31,927 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 19, Current best: 0.056707686075109565, Global best: 0.056707686075109565, Runtime: 829.48319 seconds
+2025-07-14 03:23:52,782 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 20, Current best: 0.056707686075109565, Global best: 0.056707686075109565, Runtime: 740.67447 seconds
+2025-07-14 03:36:50,476 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 21, Current best: 0.056707686075109565, Global best: 0.056707686075109565, Runtime: 777.69258 seconds
+2025-07-14 03:49:47,568 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 22, Current best: 0.056707686075109565, Global best: 0.056707686075109565, Runtime: 777.09020 seconds
+2025-07-14 04:02:57,759 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 23, Current best: 0.056707686075109565, Global best: 0.056707686075109565, Runtime: 790.16862 seconds
+2025-07-14 04:17:18,506 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 24, Current best: 0.056707686075109565, Global best: 0.056707686075109565, Runtime: 860.64533 seconds
+2025-07-14 04:25:17,608 - mealpy.swarm_based.ABC.OriginalABC - INFO - OriginalABC(epoch=1, pop_size=20, n_limits=25)
+2025-07-14 04:29:47,476 - mealpy.swarm_based.ABC.OriginalABC - INFO - >>>Problem: P, Epoch: 1, Current best: 0.05877531930609392, Global best: 0.05877531930609392, Runtime: 187.13784 seconds
+2025-07-14 04:39:40,935 - mealpy.swarm_based.GWO.OriginalGWO - INFO - OriginalGWO(epoch=5, pop_size=20)
+2025-07-14 04:42:53,590 - mealpy.swarm_based.GWO.OriginalGWO - INFO - >>>Problem: P, Epoch: 1, Current best: 0.08044999732400893, Global best: 0.08044999732400893, Runtime: 98.75207 seconds
+2025-07-14 04:44:34,358 - mealpy.swarm_based.GWO.OriginalGWO - INFO - >>>Problem: P, Epoch: 2, Current best: 0.08044999732400893, Global best: 0.08044999732400893, Runtime: 100.77050 seconds
+2025-07-14 04:46:17,145 - mealpy.swarm_based.GWO.OriginalGWO - INFO - >>>Problem: P, Epoch: 3, Current best: 0.08043474901335479, Global best: 0.08043474901335479, Runtime: 102.78418 seconds
+2025-07-14 04:47:59,537 - mealpy.swarm_based.GWO.OriginalGWO - INFO - >>>Problem: P, Epoch: 4, Current best: 0.08039889778307041, Global best: 0.08039889778307041, Runtime: 102.38900 seconds
+2025-07-14 04:49:42,130 - mealpy.swarm_based.GWO.OriginalGWO - INFO - >>>Problem: P, Epoch: 5, Current best: 0.08039889778307041, Global best: 0.08039889778307041, Runtime: 102.59844 seconds
+2025-07-14 04:52:12,897 - mealpy.swarm_based.GWO.OriginalGWO - INFO - OriginalGWO(epoch=5, pop_size=20)
+2025-07-14 04:56:01,538 - mealpy.swarm_based.GWO.OriginalGWO - INFO - >>>Problem: P, Epoch: 1, Current best: 0.05836083310459372, Global best: 0.05836083310459372, Runtime: 131.17996 seconds
+2025-07-14 04:59:36,820 - mealpy.swarm_based.GWO.OriginalGWO - INFO - >>>Problem: P, Epoch: 2, Current best: 0.057724141046792465, Global best: 0.057724141046792465, Runtime: 215.28144 seconds
+2025-07-14 05:04:41,497 - mealpy.swarm_based.GWO.OriginalGWO - INFO - >>>Problem: P, Epoch: 3, Current best: 0.05760725173905501, Global best: 0.05760725173905501, Runtime: 304.67513 seconds
+2025-07-14 05:09:57,752 - mealpy.swarm_based.GWO.OriginalGWO - INFO - >>>Problem: P, Epoch: 4, Current best: 0.05760725173905501, Global best: 0.05760725173905501, Runtime: 316.25424 seconds
+2025-07-14 05:15:44,918 - mealpy.swarm_based.GWO.OriginalGWO - INFO - >>>Problem: P, Epoch: 5, Current best: 0.05760725173905501, Global best: 0.05760725173905501, Runtime: 347.16419 seconds
+2025-07-14 05:48:32,467 - mealpy.swarm_based.FA.OriginalFA - INFO - OriginalFA(epoch=1, pop_size=20, max_sparks=100, p_a=0.04, p_b=0.8, max_ea=40, m_sparks=100)
+2025-07-14 06:08:05,614 - mealpy.swarm_based.FA.OriginalFA - INFO - >>>Problem: P, Epoch: 1, Current best: 0.08044999732400893, Global best: 0.08044999732400893, Runtime: 1084.85804 seconds
+2025-07-14 06:08:05,629 - mealpy.swarm_based.FA.OriginalFA - INFO - OriginalFA(epoch=1, pop_size=20, max_sparks=100, p_a=0.04, p_b=0.8, max_ea=40, m_sparks=100)
+2025-07-14 06:32:54,900 - mealpy.swarm_based.FA.OriginalFA - INFO - >>>Problem: P, Epoch: 1, Current best: 0.061748006015527435, Global best: 0.061748006015527435, Runtime: 1395.45355 seconds

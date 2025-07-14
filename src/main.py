@@ -68,20 +68,20 @@ def main():
     df_filtered = data[data['intent'].isin(valid_intents)]
 
     line_length = 70
-    # print("# ","="*line_length)
-    # print("# 🔹 Função build_pipeline_complete atualizada com PSO")
-    # print("# ","="*line_length)
-    # algorithm_pso.build_pipeline_complete_pso(df_filtered['text_clean'], df_filtered['intent'])
+    print("# ","="*line_length)
+    print("# 🔹 Função build_pipeline_complete atualizada com PSO")
+    print("# ","="*line_length)
+    algorithm_pso.build_pipeline_complete_pso(df_filtered['text_clean'], df_filtered['intent'])
     
-    # print("# ","="*line_length)
-    # print("# 🔹 Função build_pipeline_complete atualizada com ABC")
-    # print("# ","="*line_length)
-    # algorithm_abc.build_pipeline_complete_abc(df_filtered['text_clean'], df_filtered['intent'])
+    print("# ","="*line_length)
+    print("# 🔹 Função build_pipeline_complete atualizada com ABC")
+    print("# ","="*line_length)
+    algorithm_abc.build_pipeline_complete_abc(df_filtered['text_clean'], df_filtered['intent'])
 
-    # print("# ","="*line_length)
-    # print("# 🔹 Função build_pipeline_complete atualizada com GWO")
-    # print("# ","="*line_length)
-    # algorithm_gwo.build_pipeline_complete_gwo(df_filtered['text_clean'], df_filtered['intent'])
+    print("# ","="*line_length)
+    print("# 🔹 Função build_pipeline_complete atualizada com GWO")
+    print("# ","="*line_length)
+    algorithm_gwo.build_pipeline_complete_gwo(df_filtered['text_clean'], df_filtered['intent'])
 
     print("# ","="*line_length)
     print("# 🔹 Função build_pipeline_complete atualizada com FA")
